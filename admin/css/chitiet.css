@@ -1,0 +1,40 @@
+.right {
+    width: 50%;
+    height: auto;  
+    float: right;
+}
+
+.left {
+    width: 50%;
+    height: auto;
+    float: left;
+}
+
+p img {
+    border: 2px solid white;
+}
+
+p img:hover {
+    border: 2px solid red;
+}
+div a{
+    color: black;
+}
+div a:hover{
+    color:rgb(4, 177, 245);
+}
+div h1{
+    margin-top: 35px;
+    color:rgb(85 85 85);
+    font-size:30px;
+    font-weight:700;
+    line-height:31.2px;
+    font-family:custom-font;
+}
+.sl{
+    margin-top: 35px;
+    width: 200px;
+    height: auto;
+    margin-bottom: 35px; 
+}
+
